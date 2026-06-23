@@ -74,21 +74,6 @@ This tool is free and open-source forever. If it saved you from paying for Cricu
 
 **AGPL-3.0** — If you fork it, your fork stays open-source too.
 
-## Roadmap
-
-- [ ] Path boolean operations (weld, slice, attach, flatten)
-- [ ] Pen/bezier tool
-- [ ] Node editing
-- [ ] Full Cricut protocol reverse-engineering
-- [ ] G-code generation from SVG paths
-- [ ] Auto-nesting algorithm
-- [ ] Multi-mat support
-- [ ] Print-then-cut calibration
-- [ ] DXF import/export
-- [ ] Plugin system
-
----
-
 **Made with spite and a bag of weed.** 🦗🔪
 
 *Cricut is a trademark of Cricut, Inc. This project is not affiliated with, endorsed by, or sponsored by Cricut, Inc. This is an independent open-source tool for hardware you already own.*
