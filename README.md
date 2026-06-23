@@ -15,7 +15,7 @@ Stick-it-too-Cricut is a complete Cricut Maker design-and-cut application that r
 - Full SVG design canvas with pan, zoom, and grid
 - Shape tools: rectangle, circle, polygon, star, line
 - Text tool with live editing
-- SVG and image (PNG/JPG) import via drag-and-drop or file dialog 
+- SVG and image (PNG/JPG) import via drag-and-drop or file dialog  
 - Selection, move, resize, flip, and transform
 - Layers panel with visibility and lock
 - Undo/Redo (Ctrl+Z / Ctrl+Y)
