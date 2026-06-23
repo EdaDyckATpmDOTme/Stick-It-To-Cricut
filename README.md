@@ -47,7 +47,6 @@ Stick-it-too-Cricut is a complete Cricut Maker design-and-cut application that r
 4. Connect your Cricut Maker via USB
 5. Select material, set parameters, cut
 
-**Or visit the live site:** `https://YOUR_USERNAME.github.io/stick-it-too-cricut/`
 
 ## Requirements
 
@@ -60,42 +59,6 @@ Stick-it-too-Cricut is a complete Cricut Maker design-and-cut application that r
 
 ⚠️ **The Cricut serial protocol is being actively reverse-engineered.** The serial driver currently sends placeholder commands. Contributions from anyone who has sniffed Cricut USB traffic are extremely welcome.
 
-## Project Structure
-
-```
-stick-it-too-cricut/
-├── index.html          # Entry point
-├── css/
-│   └── theme.css       # CV-01.37 dark neon theme
-├── js/
-│   ├── app.js          # App shell & init
-│   ├── canvas.js       # SVG canvas engine
-│   ├── tools.js        # Drawing & selection tools
-│   ├── layers.js       # Layer management
-│   ├── history.js      # Undo/redo stack
-│   ├── serial.js       # Web Serial driver
-│   ├── console-terminal.js  # Serial debug terminal
-│   ├── materials.js    # Material presets
-│   ├── storage.js      # IndexedDB persistence
-│   ├── shortcuts.js    # Keyboard shortcuts
-│   └── cricket-game.js # 🦗 Mini-game
-├── assets/
-│   └── logo.png        # The psychotic cricket
-├── README.md
-└── LICENSE
-```
-
-## Deploy to GitHub Pages
-
-```bash
-git init
-git add .
-git commit -m "initial commit"
-git remote add origin git@github.com:YOUR_USERNAME/stick-it-too-cricut.git
-git push -u origin main
-```
-
-Then enable GitHub Pages in repo Settings → Pages → Source: main branch, root `/`.
 
 ## Support This Project
 
@@ -106,8 +69,6 @@ This tool is free and open-source forever. If it saved you from paying for Cricu
 | **BTC** | `YOUR_BTC_ADDRESS_HERE` |
 | **ETH** | `YOUR_ETH_ADDRESS_HERE` |
 | **XMR** | `YOUR_XMR_ADDRESS_HERE` |
-
-Every sat, wei, and piconero keeps this project alive. 🦗🔪
 
 ## License
 
@@ -128,6 +89,6 @@ Every sat, wei, and piconero keeps this project alive. 🦗🔪
 
 ---
 
-**Made with spite and a soldering iron.** 🦗🔪
+**Made with spite and a bag of weed.** 🦗🔪
 
 *Cricut is a trademark of Cricut, Inc. This project is not affiliated with, endorsed by, or sponsored by Cricut, Inc. This is an independent open-source tool for hardware you already own.*
